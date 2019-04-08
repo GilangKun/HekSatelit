@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 #tools sederhana
 #prank hack satelit
-#by LxG_9 Gans
+#by Mr_Lunatic Gans
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -12,10 +12,10 @@ echo " "
 echo  $blue "<|======================================|>"
 echo  $red    "|       TOOLS HACK SATELIT          |"
 echo  $red    "|                                   |"
-echo  $red    "| Author        : LxG_9             |"
-echo  $red    "| Contact       : 081226988596      |"
-echo  $red    "| My Team       : KiLLeR Cyber Team |"
-echo  $red    "| Thanks To     : Mr.Devil          |"
+echo  $red    "| Author        : Mr_Lunatic        |"
+echo  $red    "| Contact       : 08**********      |"
+echo  $red    "| My Team       : Clay White Dark   |"
+echo  $red    "| Thanks To     : Mr_Lunatic        |"
 echo  $blue "<|======================================|>"
 sleep 1
 echo " "
@@ -28,16 +28,16 @@ echo $blue "|| $green 4. Geser Satelit Nasa         $blue ||"
 echo $blue "|| $green 0. Exit The Program           $blue ||"
 echo $blue "===================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
-read -p"╰───────root@GilangKun=•>" Gans;
+read -p"╰───────root@MrLunaticStar=•>" Gans;
 if [ $Gans = 1 ] || [ $Gans = 01 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@MrLunaticSar=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@MrLunaticStar=•>" derajat;
 sleep 1
-echo $red "Loading"
+echo $red "Memuat Tunggu"
 sleep 1
 echo $blue "10%"
 sleep 1
@@ -59,7 +59,7 @@ echo $purple "90%"
 sleep 1
 echo $blue "100%"
 sleep 1
-echo $green "Prosessing Done"
+echo $green "Proses Selesai"
 sleep 1
 echo  $blue "Satelit Berhasi  Digeser ke arah $arah sejauh $derajat derajat"
 fi
@@ -67,12 +67,12 @@ fi
 if [ $Gans = 2 ] || [ $Gans = 02 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@MrLunaticStar=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@MrLunaticStar=•>" derajat;
 sleep 1
-echo $red "Loading"
+echo $red "Memuat Tunggu"
 sleep 1
 echo $blue "10%"
 sleep 1
@@ -94,7 +94,7 @@ echo $purple "90%"
 sleep 1
 echo $blue "100%"
 sleep 1
-echo $green "Prosessing Done"
+echo $green "Proses Selesai"
 sleep 1
 echo  $blue "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
 fi
@@ -102,12 +102,12 @@ fi
 if [ $Gans = 3 ] || [ $Gans = 03 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@MrLunaticStar=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@MrLunaticStar=•>" derajat;
 sleep 1
-echo $red "Loading"
+echo $red "Memuat Tunggu"
 sleep 1
 echo $blue "10%"
 sleep 1
@@ -129,7 +129,7 @@ echo $purple "90%"
 sleep 1
 echo $blue "100%"
 sleep 1
-echo $green "Prosessing Done"
+echo $green "Proses Selesai"
 sleep 1
 echo  $blue "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
 fi
@@ -137,12 +137,12 @@ fi
 if [ $Gans = 4 ] || [ $Gans = 04 ]
 then
 echo $blue"╭──[Mau Kearah Mana]>"
-read -p"╰───────root@GilangKun=•>" arah;
+read -p"╰───────root@MrLunaticStar=•>" arah;
 sleep 1
 echo $green"╭──[Mau Digeser Berapa Derajat]>"
-read -p"╰───────root@GilangKun=•>" derajat;
+read -p"╰───────root@MrLunaticStar=•>" derajat;
 sleep 1
-echo $red "Loading"
+echo $red "Memuat Tunggu"
 sleep 1
 echo $blue "10%"
 sleep 1
@@ -164,15 +164,15 @@ echo $purple "90%"
 sleep 1
 echo $blue "100%"
 sleep 1
-echo $green "Prosessing Done"
+echo $green "Prosessing Selesai"
 sleep 1
 echo  $blue "Satelit Berhasil Digeser ke arah $arah sejauh $derajat derajat"
 fi
 
 if [ $Gans = 0 ] || [ $Gans = 00 ]
 then
-echo  $red "Bay Bay"
-echo  $blue "Jangan Lupa Coli Hari Ini!"
-echo  $green "KiLLeR Cyber Team!"
+echo  $red "This Is Prank Bro"
+echo  $blue "April Mob"
+echo  $green "Clay White Dark Team!"
 exit
 fi
